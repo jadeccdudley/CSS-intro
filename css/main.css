@@ -1,1 +1,10 @@
-
+.unordered-list {
+    color: #3d0f92;
+    font-size: 30px;
+    font-weight: 500;
+}
+.homer-simpson-title {
+    color: #ff5733;
+    font-size: 18px;
+    font-weight: 500;
+}
